@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Ferial Taoussi
+   # ftaou
 
    # Input:
    # p, principal amount
